@@ -1,0 +1,29 @@
+	Timesheet For 15-112 Term Project	
+		
+Day	Hours	Description
+pre-11/12/2012	8	Investigated Ideas for project, reaserched use of kivy, vpython, etc.
+11/12/2012	6	Went through kivy tutorials, set up part of layout of the app
+11/13/2012	7	Continued to set up layout. Got stuck on a nasty bug for several hours
+11/14/2012	5	Continued to set up layout. Got stuck on a nasty bug for several hours
+11/15/2012	4	Attempted to set up event handlers (difficult, took a long time)
+11/16/2012	6	Set up some event handlers/data collection
+11/19/2012	2.5	Tried to fix a bug, and eventually succeeded
+11/20/2012	3	Succesfully finished the ledger feature
+11/21/2012	1	Started to set up budget feature
+11/22/2012	4	Continued to set up budget feature
+11/23/2012	7	Set up the configure revenue screen, goals screen, and how percentages will be calculated
+11/25/2012	2	Started the budget graph that will display the data
+11/27/2012	7	Set up budget graph, the main menu progress bar, status, recommendations, and data storage in a pickle
+11/28/2012	8	Did so many things…can't remember it all. Lots of cool additions and more bugs fixed
+11/29/2012	6	More adjustments and information displayed, made the ledger items removable
+11/30/2012	7	Did the line graphs, made an instruction popup, fixed some bugs, made things pretty
+12/2/2012	4	Fixed some bugs, added interactivity
+12/3/2012	5	Did testing and fixed more bugs
+12/4/2012	3	Fixed little bugs
+		
+		
+		
+		
+		
+		
+Total Hours:	95.5	
